@@ -18,7 +18,8 @@
 /**
  * Certificate module capability definition
  *
- * @package    mod_certificate
+ * @package    mod
+ * @subpackage certificate
  * @copyright  Mark Nelson <markn@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
