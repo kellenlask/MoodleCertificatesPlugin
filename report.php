@@ -80,6 +80,7 @@ $strdate = get_string('receiveddate', 'certificate');
 $strgrade = get_string('grade','certificate');
 $strcode = get_string('code', 'certificate');
 $strreport= get_string('report', 'certificate');
+$strinstructorID= get_string('e_id', 'certificate_issues');//Used to add to certificate printout
 
 if (!$download) {
     $PAGE->navbar->add($strreport);
